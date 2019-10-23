@@ -1,6 +1,9 @@
 ## Welcome to MikeCyberSec's blog
 
-<a href="page1.html">Page 2</a>
+- <a href="page1.html">Malware Analysis Tutorials</a>
+- <a href="page1.html">General Cyber blogs</a>
+- <a href="page1.html">My Twitter</a>
+
 
 You can use the [editor on GitHub](https://github.com/ilambyyy/thesecblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
