@@ -1,6 +1,6 @@
 ## Welcome to MikeCyberSec's blog
 
-TESTING
+<a href="page1.html">Page 2</a>
 
 You can use the [editor on GitHub](https://github.com/ilambyyy/thesecblog/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
